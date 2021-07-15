@@ -1,9 +1,3 @@
-/* E no: E/16/156
-   Name: Jayathilaka H.A.D.T.T.
-   Lab 03                       */
-
-
-
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
